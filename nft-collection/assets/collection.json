@@ -1,0 +1,15 @@
+{
+    "name": "Nick X DALL-E",
+    "description": "A collection of AI-generated dachshunds",
+    "image": "collection.jpg",
+    "symbol": "DAPPLE",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    }
+  }

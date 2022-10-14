@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "BP4oowwXMLpjkMgLMZiPXvmg2ZeHBKqDf9CHnreaSnga",
+    "candyMachineCreator": "Bg38d6BGqofbAzAbdFohtFpu2Var7Yxgpuu6mSWsYEzZ",
+    "collectionMint": "BH1P6naR6hPPk4WJntidE3KkVE5GEFXcvvigUbuNQphG"
+  },
+  "items": {
+    "-1": {
+      "name": "Nick X DALL-E",
+      "image_hash": "20f4fd9c117f0b1f14702417a1ca033cabc637fb28db4e67d428ed23eeb7365e",
+      "image_link": "https://arweave.net/6f_1U0Q2ga5Zf6l8rGdKsLxStYqcje6gvserDcM8W_I?ext=jpg",
+      "metadata_hash": "71d14fdc6f7d602036b4cdf56ac1447c8415cc1b1ad0e8afc0cecd043277ba1a",
+      "metadata_link": "https://arweave.net/uYUZzZlKKkWSrGhEjTc1hEdKf-3JBuaTGhqaUwd3x3g",
+      "onChain": true
+    },
+    "0": {
+      "name": "Nick X DALL-E 0",
+      "image_hash": "eb89e2af6be53f59c256d2bcb2f1812994f870ebbd4a0741e7417dac14d940c4",
+      "image_link": "https://arweave.net/AjZHsmcFXPG7hAGyaSOI9ARsmnXj6AL72UFlIumI620?ext=jpg",
+      "metadata_hash": "9401a90575b967b481cfebf78b3e879b16344002d420b756d4891b5fb4f2abc6",
+      "metadata_link": "https://arweave.net/dSD9BLzPSNzPb06mYZvubQgOP5u-KOwU3rhTiuUZi_M",
+      "onChain": true
+    },
+    "1": {
+      "name": "Nick X DALL-E 1",
+      "image_hash": "a4317b9ba97da8c77565ba651e26535800bf69498448436f7d94a966a63f4913",
+      "image_link": "https://arweave.net/yE2j4E14daVRgZnFaSk8YvDbr7MfUNqoSic9uL7fW5A?ext=jpg",
+      "metadata_hash": "4e6f51861d8e2ddc6d2bb482fbfc2682425166d9b11b21e9881b77435290e371",
+      "metadata_link": "https://arweave.net/r6qajV630WTlsa_NwsFvRsqXDlPCx5dknkxHNQUQoZI",
+      "onChain": true
+    },
+    "2": {
+      "name": "Nick X DALL-E 2",
+      "image_hash": "0fad1b022fcf719defcaee91cff6b97673e2153a8125297b0ae88192af4341ed",
+      "image_link": "https://arweave.net/KtZZpl4gj26NBF0B9WxGJ_ZdeCPRySbFCLu31gV4Xyk?ext=jpg",
+      "metadata_hash": "e73dd0ed86e95ce7ca30c236ee0442c38c16741ecefaf04633bb4e8726b49060",
+      "metadata_link": "https://arweave.net/6fia5Yj2Eg1cWRQ_4GXB68LEs1kFzqQzgG3viDZeyL8",
+      "onChain": true
+    },
+    "3": {
+      "name": "Nick X DALL-E 3",
+      "image_hash": "a3926fcdedbcdc20795ef312e1d6a2fb824a4f979274c69de13dbc5a5bdb199f",
+      "image_link": "https://arweave.net/adNvoKok3GXXdCC3GQhqZ8uoJigSSdnlqp_Umtb3fyI?ext=jpg",
+      "metadata_hash": "d47c11fc98c267ad770dad24122cd1c1acfda929af83f01e0a4ef1c119a4026f",
+      "metadata_link": "https://arweave.net/1YLbVMRdZyhl_jalJV6iASzV5dOBM_16wyD77Ow_sRo",
+      "onChain": true
+    },
+    "4": {
+      "name": "Nick X DALL-E 4",
+      "image_hash": "010021cc163057b84599bbaf1f0be7cd9b2db203d82f438a3ad6bbfdc8362d2b",
+      "image_link": "https://arweave.net/qEwTSpOsfo74SgSMQo8VZwHTd7MZzWXWCBWgZbV3870?ext=jpg",
+      "metadata_hash": "15da79553dc36a9ed38ee27382892be764350caf988ea55bf2074057ee981035",
+      "metadata_link": "https://arweave.net/J59QnF6p9zqNX-RXnrgzneXdtWogVLrq4CU1PCAsPeU",
+      "onChain": true
+    }
+  }
+}

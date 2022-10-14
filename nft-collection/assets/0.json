@@ -1,0 +1,25 @@
+{
+    "name": "Nick X DALL-E 0",
+    "description": "A cactus with two dapple dachshunds in the desert and a purple haze sky.",
+    "image": "0.jpg",
+    "symbol": "DAPPLE",
+    "attributes": [
+      {
+        "trait_type": "cactus",
+        "value": "phaia"
+      },
+
+      {
+        "trait_type": "background",
+        "value": "saidanu"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "0.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    }
+  }
